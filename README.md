@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francis Lopez</h1>
+<h1 align="center">Hi, I'm Francis Lopez</h1>
 <img src="https://media.giphy.com/media/26xBy23gp6jPrzyes/giphy.gif" align="right" alt="gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisix&label=Profile%20views&color=0e75b6&style=flat" alt="francisix" /> </p>
 
