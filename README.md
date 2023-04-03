@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cavilant&weight=500&size=25&duration=3000&pause=1000&color=F76060&background=FF000000&width=435&lines=Hi%2C+I'm+Francis+Lopez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cavilant&weight=500&size=25&duration=3000&pause=1000&color=4A94E7&background=FF000000&width=435&lines=Hi%2C+I'm+Francis+Lopez)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" align="right" alt="gif" height="200" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisix&label=Profile%20views&color=0e75b6&style=flat" alt="francisix" /> </p>
 
