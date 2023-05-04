@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" align="right" alt="gif" height="200" width="500"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisix&label=Profile%20views&color=0e75b6&style=flat" alt="francisix" /> </p>
 
-- 🔭 I’m currently working on **Vital ActiveWear**
+- 🔭 I’m currently working on **Blog App**
 
 - 🌱 I’m currently learning **PHP, Laravel, Javascript**
 
