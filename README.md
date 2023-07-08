@@ -1,15 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cavilant&weight=500&size=25&duration=3000&pause=1000&color=4A94E7&background=FF000000&width=435&lines=Hi%2C+I'm+Francis+Lopez)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" align="right" alt="gif" height="200" width="500"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=francisix&label=Profile%20views&color=0e75b6&style=flat" alt="francisix" /> </p>
-
-- 🔭 I’m currently working on **Blog App**
-
-- 🌱 I’m currently learning **PHP, Laravel, Javascript**
-
-- 💬 Ask me about **PHP, Laravel, Javascript, HTML, CSS**
-
-- 📫 How to reach me **fslntsho@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/fslntsho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fslntsho" height="30" width="40" /></a>
